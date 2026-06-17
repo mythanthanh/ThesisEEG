@@ -5,4 +5,5 @@ Here is the code for my Bachelor Thesis "Investigation of upper component in hyp
 **Create the environment**
 
 `conda env create -f environment/thesisenv.yaml
+
 conda activate thesisenv`

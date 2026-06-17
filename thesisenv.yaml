@@ -1,0 +1,21 @@
+name: thesisenv
+
+channels:
+  - conda-forge
+  - default
+
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - flake8
+  - ipykernel
+  - jupyter
+  - notebook
+  - pip
+  - mne
+  - mne-bids
+  - openpyxl
+  
